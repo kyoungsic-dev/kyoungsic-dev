@@ -2,17 +2,9 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoungsic-dev&count_bg=%23DD6487&title_bg=%23282A36&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)
 
-<span>
-
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=kyoungsic-dev&show_icons=true&count_private=true&line_height=24&theme=dracula)
 
-</span>
-
-<span>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoungsic-dev&layout=compact&theme=dracula)
-
-</span>
 
 ## 🙋‍♂️ Personal Info
 
