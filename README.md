@@ -1,6 +1,6 @@
 <span align=right>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoungsic-dev&count_bg=%23DD6487&title_bg=%23282A36&icon=github.svg&icon_color=%2394CFE6&title=visitors&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoungsic-dev&count_bg=%23DD6487&title_bg=%23282A36&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)
 
 </span>
 
