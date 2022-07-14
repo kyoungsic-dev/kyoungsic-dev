@@ -8,10 +8,10 @@
 
 ## 👩‍💻 Profile
 
-- 김경식 (Kyoungsic Kim)
-- 1993.02.27
-- sick93s@naver.com
-- [웹사이트 방문하기](https://www.kyoungsic.kr)
+- Name : 김경식 (Kyoungsic Kim)
+- Birth : 1993.02.27
+- E-mail : sick93s@naver.com
+- Web : [https://www.kyoungsic.kr](https://www.kyoungsic.kr)
 
 ## 🛠 Skills
 
