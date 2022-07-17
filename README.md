@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoungsic-dev&layout=compact&theme=dracula)
 
-## 👩‍💻 Profile
+## 👨‍💻 Profile
 
 - Name : 김경식 (Kyoungsic Kim)
 - Birth : 1993.02.27
