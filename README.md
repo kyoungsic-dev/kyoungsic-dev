@@ -11,7 +11,7 @@
 - Name : 김경식 (Kyoungsic Kim)
 - Birth : 1993.02.27
 - E-mail : sick93s@naver.com
-- Web : [https://www.kyoungsic.kr](https://www.kyoungsic.kr)
+- Web : [http://kyoungsic.com](http://kyoungsic.com)
 
 ## 🛠 Skills
 
