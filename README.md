@@ -12,7 +12,7 @@
 - Birth : 1993.02.27
 - E-mail : sick93s@naver.com
 - Career : 2018 ~ 2022 웹 퍼블리셔
-- [Website](http://kyoungsic.com)
+- [Portfolio](http://kyoungsic.com)
 
 ## 🛠 Skills
 
