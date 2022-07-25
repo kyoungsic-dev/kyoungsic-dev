@@ -6,12 +6,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoungsic-dev&layout=compact&theme=dracula)
 
-## 👨‍💻 Profile
+## 👨‍💻 About
 
 - Name : 김경식 (Kyoungsic Kim)
 - Birth : 1993.02.27
 - E-mail : sick93s@naver.com
-- Web : [kyoungsic.com](http://kyoungsic.com)
+- [Website](http://kyoungsic.com)
 
 ## 🛠 Skills
 
@@ -25,7 +25,15 @@
   <span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
   <!-- <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span> -->
   <!-- <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span> -->
-- Mobile App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span><br/>
+- App : <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span><br/>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span><br />
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+
+## 🥇 Certificate
+
+- 정보처리산업기사
+- OCJP(Oracle Certified Java Programmer)
+- GTQ 1급 (Adobe Photoshop)
+- GTQi 1급 (Adobe Illustrator)
+- ITQ O/A Master (Excel, Powerpoint, Word)
